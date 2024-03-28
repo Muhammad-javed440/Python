@@ -22,6 +22,7 @@ pip install matplotlib
 > To import matplotlib
 ```
 import matplotlib.pyplot as plt
+```
 > To install seaborn
 ```
 pip install seaborn
