@@ -1,5 +1,6 @@
 # Python
-## To create environment in anaconda for python
+> First of all we install Anaconda from google
+## To create environment in anaconda for Python in Anaconda Prompt
 ```
 conda create -n python12 python==3.12 -y
 ```
