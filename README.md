@@ -52,4 +52,8 @@ pip install plotly
 ```
 import plotly as px
 ```
+> To install mypy
 ```
+pip install mypy
+```
+
