@@ -7,6 +7,10 @@ conda create -n python12 python==3.12 -y
   ```
   conda activate python12
   ```
+  ## To install Requirement file by using this command
+  ```
+  pip install -r fileName.txt
+  ```
 
 >  To install pandas
 ```
