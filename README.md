@@ -3,6 +3,10 @@
 ```
 conda create -n python12 python==3.12 -y
 ```
+- Then
+  ```
+  conda activate python12
+  ```
 
 >  To install pandas
 ```
